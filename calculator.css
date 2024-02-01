@@ -15,7 +15,7 @@
   color: white;
   font-size: 30px;
   margin-left: 10px;
-
+  cursor: pointer;
 }
 
 .clear-button {
@@ -27,6 +27,7 @@
   color: white;
   font-size: 20px;
   margin-left: 10px;
+  cursor:pointer
 }
 
 .r-buttons {
@@ -38,6 +39,7 @@
   color: white;
   font-size: 30px;
   margin-left: 10px;
+  cursor: pointer;
 }
 
 .result-down {
